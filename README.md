@@ -1,5 +1,5 @@
-# QAP_Rostelekom_Testing
-QAP_33.1._Итоговый проект по автоматизации тестирования_(PJ-04)
+# Rostelekom_Testing
+**Test Aautomation of Rostelekom auth, pass recovery & register web forms**
 
 Настоящий проект представляет из себя тестирование веб-сайта _ООО «РТК ИТ»_ по адресу: <a href="https://b2c.passport.rt.ru/" target="_blank">https://b2c.passport.rt.ru/</a> на основании Требований Заказчика (<a href="https://docs.google.com/document/d/1nCmCGCi9jvykRSHX1hE0h5vRA5s1gt82/edit?usp=sharing&ouid=112171103753211490064&rtpof=true&sd=true" target="_blank">см. ссылку на документ</a>).
 
